@@ -13,3 +13,6 @@ backend/data/creditcard.prev.csv
 backend/artifacts/audit_log.*.jsonl
 backend/artifacts_previous/
 backend/artifacts_rollback/
+
+.vercel
+.env.local

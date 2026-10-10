@@ -6,3 +6,5 @@ backend/data/*.csv
 backend/artifacts/audit_log*.jsonl
 backend/artifacts_previous
 chatbot/data/history/*.json
+.env.local
+.vercel
