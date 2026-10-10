@@ -1,0 +1,15 @@
+node_modules/
+.venv/
+__pycache__/
+*.pyc
+.env
+backend/data/creditcard.csv
+backend/artifacts/audit_log.jsonl
+backend/artifacts/mlruns/
+chatbot/data/history/*.json
+backend/data/source.json
+backend/data/*.part
+backend/data/creditcard.prev.csv
+backend/artifacts/audit_log.*.jsonl
+backend/artifacts_previous/
+backend/artifacts_rollback/

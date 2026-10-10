@@ -1,0 +1,201 @@
+rank,tx_id,time,hour,amount,score,action,note,is_fraud
+1,147548,88672.0,0,1.18,0.9906716155221561,BLOCK_AND_CALL,"#1 | TX 147548 | $1.18 | risk 99.1% | signals: pattern V14, pattern V12, pattern V16 | action: Block card, call cardholder to verify",1
+2,149522,91407.0,1,52.69,0.9906716155221561,BLOCK_AND_CALL,"#2 | TX 149522 | $52.69 | risk 99.1% | signals: pattern V12, pattern V14, pattern V10 | action: Block card, call cardholder to verify",1
+3,149773,91898.0,1,1.0,0.9906716155221561,BLOCK_AND_CALL,"#3 | TX 149773 | $1.00 | risk 99.1% | signals: pattern V12, pattern V14, pattern V10 | action: Block card, call cardholder to verify",0
+4,150601,93742.0,2,1.0,0.9906716155221561,BLOCK_AND_CALL,"#4 | TX 150601 | $1.00 | risk 99.1% | signals: pattern V12, pattern V14, pattern V10 | action: Block card, call cardholder to verify",1
+5,150644,93823.0,2,75.86,0.9906716155221561,BLOCK_AND_CALL,"#5 | TX 150644 | $75.86 | risk 99.1% | signals: pattern V12, pattern V14, pattern V10 | action: Block card, call cardholder to verify",1
+6,150647,93824.0,2,8.54,0.9906716155221561,BLOCK_AND_CALL,"#6 | TX 150647 | $8.54 | risk 99.1% | signals: pattern V12, pattern V14, pattern V4 | action: Block card, call cardholder to verify",1
+7,150654,93834.0,2,0.01,0.9906716155221561,BLOCK_AND_CALL,"#7 | TX 150654 | $0.01 | risk 99.1% | signals: pattern V12, pattern V14, pattern V4 | action: Block card, call cardholder to verify",1
+8,150660,93853.0,2,44.9,0.9906716155221561,BLOCK_AND_CALL,"#8 | TX 150660 | $44.90 | risk 99.1% | signals: pattern V12, pattern V14, pattern V10 | action: Block card, call cardholder to verify",1
+9,150661,93853.0,2,44.9,0.9906716155221561,BLOCK_AND_CALL,"#9 | TX 150661 | $44.90 | risk 99.1% | signals: pattern V12, pattern V14, pattern V10 | action: Block card, call cardholder to verify",1
+10,150662,93853.0,2,316.06,0.9906716155221561,BLOCK_AND_CALL,"#10 | TX 150662 | $316.06 | risk 99.1% | signals: pattern V12, pattern V14, pattern V10 | action: Block card, call cardholder to verify",1
+11,150663,93853.0,2,316.06,0.9906716155221561,BLOCK_AND_CALL,"#11 | TX 150663 | $316.06 | risk 99.1% | signals: pattern V12, pattern V14, pattern V10 | action: Block card, call cardholder to verify",1
+12,150665,93856.0,2,209.65,0.9906716155221561,BLOCK_AND_CALL,"#12 | TX 150665 | $209.65 | risk 99.1% | signals: pattern V12, pattern V14, pattern V4 | action: Block card, call cardholder to verify",1
+13,150666,93860.0,2,78.0,0.9906716155221561,BLOCK_AND_CALL,"#13 | TX 150666 | $78.00 | risk 99.1% | signals: pattern V12, pattern V14, pattern V10 | action: Block card, call cardholder to verify",1
+14,150667,93860.0,2,78.0,0.9906716155221561,BLOCK_AND_CALL,"#14 | TX 150667 | $78.00 | risk 99.1% | signals: pattern V12, pattern V14, pattern V10 | action: Block card, call cardholder to verify",1
+15,150668,93860.0,2,188.52,0.9906716155221561,BLOCK_AND_CALL,"#15 | TX 150668 | $188.52 | risk 99.1% | signals: pattern V12, pattern V14, pattern V10 | action: Block card, call cardholder to verify",1
+16,150669,93860.0,2,188.52,0.9906716155221561,BLOCK_AND_CALL,"#16 | TX 150669 | $188.52 | risk 99.1% | signals: pattern V12, pattern V14, pattern V10 | action: Block card, call cardholder to verify",1
+17,150677,93879.0,2,30.31,0.9906716155221561,BLOCK_AND_CALL,"#17 | TX 150677 | $30.31 | risk 99.1% | signals: pattern V12, pattern V14, pattern V4 | action: Block card, call cardholder to verify",1
+18,150678,93879.0,2,30.31,0.9906716155221561,BLOCK_AND_CALL,"#18 | TX 150678 | $30.31 | risk 99.1% | signals: pattern V12, pattern V14, pattern V4 | action: Block card, call cardholder to verify",1
+19,150679,93879.0,2,104.03,0.9906716155221561,BLOCK_AND_CALL,"#19 | TX 150679 | $104.03 | risk 99.1% | signals: pattern V12, pattern V14, pattern V10 | action: Block card, call cardholder to verify",1
+20,150680,93879.0,2,104.03,0.9906716155221561,BLOCK_AND_CALL,"#20 | TX 150680 | $104.03 | risk 99.1% | signals: pattern V12, pattern V14, pattern V10 | action: Block card, call cardholder to verify",1
+21,150684,93888.0,2,1.0,0.9906716155221561,HOLD_FOR_REVIEW,"#21 | TX 150684 | $1.00 | risk 99.1% | signals: pattern V12, pattern V14, pattern V10 | action: Hold transaction, send step-up verification",1
+22,150687,93897.0,2,1.0,0.9906716155221561,HOLD_FOR_REVIEW,"#22 | TX 150687 | $1.00 | risk 99.1% | signals: pattern V12, pattern V14, pattern V10 | action: Hold transaction, send step-up verification",1
+23,150692,93904.0,2,37.93,0.9906716155221561,HOLD_FOR_REVIEW,"#23 | TX 150692 | $37.93 | risk 99.1% | signals: pattern V12, pattern V14, pattern V10 | action: Hold transaction, send step-up verification",1
+24,150697,93920.0,2,97.0,0.9906716155221561,HOLD_FOR_REVIEW,"#24 | TX 150697 | $97.00 | risk 99.1% | signals: pattern V12, pattern V14, pattern V10 | action: Hold transaction, send step-up verification",1
+25,150715,93965.0,2,11.4,0.9906716155221561,HOLD_FOR_REVIEW,"#25 | TX 150715 | $11.40 | risk 99.1% | signals: pattern V12, pattern V10, pattern V14 | action: Hold transaction, send step-up verification",1
+26,150925,94141.0,2,45.48,0.9906716155221561,HOLD_FOR_REVIEW,"#26 | TX 150925 | $45.48 | risk 99.1% | signals: pattern V12, pattern V10, pattern V16 | action: Hold transaction, send step-up verification",1
+27,151011,94364.0,2,1.0,0.9906716155221561,HOLD_FOR_REVIEW,"#27 | TX 151011 | $1.00 | risk 99.1% | signals: pattern V12, pattern V10, pattern V14 | action: Hold transaction, send step-up verification",1
+28,151462,95559.0,2,1.63,0.9906716155221561,HOLD_FOR_REVIEW,"#28 | TX 151462 | $1.63 | risk 99.1% | signals: pattern V12, pattern V10, pattern V4 | action: Hold transaction, send step-up verification",1
+29,151519,95628.0,2,1.63,0.9906716155221561,HOLD_FOR_REVIEW,"#29 | TX 151519 | $1.63 | risk 99.1% | signals: pattern V12, pattern V10, pattern V4 | action: Hold transaction, send step-up verification",1
+30,152223,97121.0,2,8.64,0.9906716155221561,HOLD_FOR_REVIEW,"#30 | TX 152223 | $8.64 | risk 99.1% | signals: pattern V12, pattern V10, pattern V4 | action: Hold transaction, send step-up verification",1
+31,153823,100223.0,3,2.28,0.9906716155221561,HOLD_FOR_REVIEW,"#31 | TX 153823 | $2.28 | risk 99.1% | signals: pattern V10, pattern V12, pattern V4 | action: Hold transaction, send step-up verification",1
+32,154454,101597.0,4,147.87,0.9906716155221561,HOLD_FOR_REVIEW,"#32 | TX 154454 | $147.87 | risk 99.1% | signals: pattern V12, pattern V14, pattern V10 | action: Hold transaction, send step-up verification",1
+33,154668,102480.0,4,0.0,0.9906716155221561,HOLD_FOR_REVIEW,"#33 | TX 154668 | $0.00 | risk 99.1% | signals: pattern V12, pattern V14, pattern V4 | action: Hold transaction, send step-up verification",1
+34,154670,102489.0,4,104.0,0.9906716155221561,HOLD_FOR_REVIEW,"#34 | TX 154670 | $104.00 | risk 99.1% | signals: pattern V14, pattern V12, pattern V10 | action: Hold transaction, send step-up verification",1
+35,154676,102542.0,4,2.28,0.9906716155221561,HOLD_FOR_REVIEW,"#35 | TX 154676 | $2.28 | risk 99.1% | signals: pattern V14, pattern V12, pattern V4 | action: Hold transaction, send step-up verification",1
+36,154693,102619.0,4,1.0,0.9906716155221561,HOLD_FOR_REVIEW,"#36 | TX 154693 | $1.00 | risk 99.1% | signals: pattern V12, pattern V14, pattern V10 | action: Hold transaction, send step-up verification",1
+37,154694,102622.0,4,346.94,0.9906716155221561,HOLD_FOR_REVIEW,"#37 | TX 154694 | $346.94 | risk 99.1% | signals: pattern V12, pattern V14, pattern V10 | action: Hold transaction, send step-up verification",1
+38,154697,102625.0,4,7.59,0.9906716155221561,HOLD_FOR_REVIEW,"#38 | TX 154697 | $7.59 | risk 99.1% | signals: pattern V12, pattern V14, pattern V4 | action: Hold transaction, send step-up verification",1
+39,154718,102669.0,4,0.0,0.9906716155221561,HOLD_FOR_REVIEW,"#39 | TX 154718 | $0.00 | risk 99.1% | signals: pattern V12, pattern V14, pattern V4 | action: Hold transaction, send step-up verification",1
+40,154719,102671.0,4,0.0,0.9906716155221561,HOLD_FOR_REVIEW,"#40 | TX 154719 | $0.00 | risk 99.1% | signals: pattern V12, pattern V14, pattern V4 | action: Hold transaction, send step-up verification",1
+41,154720,102676.0,4,119.74,0.9906716155221561,HOLD_FOR_REVIEW,"#41 | TX 154720 | $119.74 | risk 99.1% | signals: pattern V12, pattern V14, pattern V4 | action: Hold transaction, send step-up verification",1
+42,156988,109297.0,6,0.0,0.9906716155221561,HOLD_FOR_REVIEW,"#42 | TX 156988 | $0.00 | risk 99.1% | signals: pattern V12, pattern V14, pattern V4 | action: Hold transaction, send step-up verification",1
+43,156990,109298.0,6,186.13,0.9906716155221561,HOLD_FOR_REVIEW,"#43 | TX 156990 | $186.13 | risk 99.1% | signals: pattern V12, pattern V14, pattern V4 | action: Hold transaction, send step-up verification",1
+44,157868,110547.0,6,0.76,0.9906716155221561,HOLD_FOR_REVIEW,"#44 | TX 157868 | $0.76 | risk 99.1% | signals: pattern V12, pattern V14, pattern V10 | action: Hold transaction, send step-up verification",1
+45,163149,115691.0,8,17.06,0.9906716155221561,HOLD_FOR_REVIEW,"#45 | TX 163149 | $17.06 | risk 99.1% | signals: pattern V14, pattern V12, pattern V17 | action: Hold transaction, send step-up verification",1
+46,163586,116067.0,8,65.0,0.9906716155221561,HOLD_FOR_REVIEW,"#46 | TX 163586 | $65.00 | risk 99.1% | signals: pattern V14, pattern V12, pattern V10 | action: Hold transaction, send step-up verification",1
+47,163769,116195.0,8,19.99,0.9906716155221561,HOLD_FOR_REVIEW,"#47 | TX 163769 | $19.99 | risk 99.1% | signals: pattern V14, pattern V12, pattern V17 | action: Hold transaction, send step-up verification",0
+48,164955,117109.0,8,119.99,0.9906716155221561,HOLD_FOR_REVIEW,"#48 | TX 164955 | $119.99 | risk 99.1% | signals: pattern V12, pattern V14, pattern V17 | action: Hold transaction, send step-up verification",0
+49,172787,121238.0,9,144.62,0.9906716155221561,HOLD_FOR_REVIEW,"#49 | TX 172787 | $144.62 | risk 99.1% | signals: pattern V14, pattern V12, pattern V10 | action: Hold transaction, send step-up verification",1
+50,177195,123078.0,10,11.0,0.9906716155221561,HOLD_FOR_REVIEW,"#50 | TX 177195 | $11.00 | risk 99.1% | signals: pattern V14, pattern V12, pattern V16 | action: Hold transaction, send step-up verification",1
+51,178208,123525.0,10,45.51,0.9906716155221561,HOLD_FOR_REVIEW,"#51 | TX 178208 | $45.51 | risk 99.1% | signals: pattern V4, pattern V12, pattern V14 | action: Hold transaction, send step-up verification",1
+52,181966,125200.0,10,40.0,0.9906716155221561,HOLD_FOR_REVIEW,"#52 | TX 181966 | $40.00 | risk 99.1% | signals: pattern V14, pattern V12, pattern V10 | action: Hold transaction, send step-up verification",1
+53,190041,128663.0,11,0.76,0.9906716155221561,HOLD_FOR_REVIEW,"#53 | TX 190041 | $0.76 | risk 99.1% | signals: pattern V14, pattern V12, pattern V10 | action: Hold transaction, send step-up verification",0
+54,204503,135314.0,13,84.28,0.9906716155221561,HOLD_FOR_REVIEW,"#54 | TX 204503 | $84.28 | risk 99.1% | signals: pattern V14, pattern V12, pattern V17 | action: Hold transaction, send step-up verification",1
+55,208651,137211.0,14,39.45,0.9906716155221561,HOLD_FOR_REVIEW,"#55 | TX 208651 | $39.45 | risk 99.1% | signals: pattern V14, pattern V12, pattern V10 | action: Hold transaction, send step-up verification",1
+56,212644,138942.0,14,727.91,0.9906716155221561,HOLD_FOR_REVIEW,"#56 | TX 212644 | $727.91 | risk 99.1% | signals: pattern V14, pattern V12, pattern V10 | action: Hold transaction, send step-up verification",1
+57,213116,139117.0,14,8.3,0.9906716155221561,HOLD_FOR_REVIEW,"#57 | TX 213116 | $8.30 | risk 99.1% | signals: pattern V14, pattern V12, pattern V4 | action: Hold transaction, send step-up verification",1
+58,214662,139767.0,14,120.54,0.9906716155221561,HOLD_FOR_REVIEW,"#58 | TX 214662 | $120.54 | risk 99.1% | signals: pattern V14, pattern V12, pattern V10 | action: Hold transaction, send step-up verification",1
+59,215132,139951.0,14,723.21,0.9906716155221561,HOLD_FOR_REVIEW,"#59 | TX 215132 | $723.21 | risk 99.1% | signals: pattern V14, pattern V12, pattern V10 | action: Hold transaction, send step-up verification",1
+60,221018,142394.0,15,320.01,0.9906716155221561,HOLD_FOR_REVIEW,"#60 | TX 221018 | $320.01 | risk 99.1% | signals: pattern V14, pattern V12, pattern V10 | action: Hold transaction, send step-up verification",1
+61,222133,142840.0,15,144.8,0.9906716155221561,HOLD_FOR_REVIEW,"#61 | TX 222133 | $144.80 | risk 99.1% | signals: pattern V14, pattern V12, pattern V17 | action: Hold transaction, send step-up verification",1
+62,223572,143434.0,15,1.0,0.9906716155221561,HOLD_FOR_REVIEW,"#62 | TX 223572 | $1.00 | risk 99.1% | signals: pattern V14, pattern V12, pattern V4 | action: Hold transaction, send step-up verification",1
+63,223618,143456.0,15,1.0,0.9906716155221561,HOLD_FOR_REVIEW,"#63 | TX 223618 | $1.00 | risk 99.1% | signals: pattern V14, pattern V4, pattern V12 | action: Hold transaction, send step-up verification",1
+64,226814,144808.0,16,667.55,0.9906716155221561,HOLD_FOR_REVIEW,"#64 | TX 226814 | $667.55 | risk 99.1% | signals: pattern V14, pattern V12, pattern V10 | action: Hold transaction, send step-up verification",1
+65,226877,144839.0,16,0.0,0.9906716155221561,HOLD_FOR_REVIEW,"#65 | TX 226877 | $0.00 | risk 99.1% | signals: pattern V14, pattern V10, pattern V12 | action: Hold transaction, send step-up verification",1
+66,229712,146022.0,16,1.18,0.9906716155221561,HOLD_FOR_REVIEW,"#66 | TX 229712 | $1.18 | risk 99.1% | signals: pattern V14, pattern V12, pattern V4 | action: Hold transaction, send step-up verification",1
+67,234574,148028.0,17,0.0,0.9906716155221561,HOLD_FOR_REVIEW,"#67 | TX 234574 | $0.00 | risk 99.1% | signals: pattern V14, pattern V12, pattern V4 | action: Hold transaction, send step-up verification",1
+68,235634,148476.0,17,0.76,0.9906716155221561,HOLD_FOR_REVIEW,"#68 | TX 235634 | $0.76 | risk 99.1% | signals: pattern V14, pattern V12, pattern V4 | action: Hold transaction, send step-up verification",1
+69,235644,148479.0,17,122.68,0.9906716155221561,HOLD_FOR_REVIEW,"#69 | TX 235644 | $122.68 | risk 99.1% | signals: pattern V14, pattern V12, pattern V10 | action: Hold transaction, send step-up verification",1
+70,241445,151029.0,17,10.7,0.9906716155221561,HOLD_FOR_REVIEW,"#70 | TX 241445 | $10.70 | risk 99.1% | signals: pattern V14, pattern V12, pattern V10 | action: Hold transaction, send step-up verification",1
+71,243393,151916.0,18,0.01,0.9906716155221561,HOLD_FOR_REVIEW,"#71 | TX 243393 | $0.01 | risk 99.1% | signals: pattern V14, pattern V12, pattern V4 | action: Hold transaction, send step-up verification",1
+72,243547,151972.0,18,57.73,0.9906716155221561,HOLD_FOR_REVIEW,"#72 | TX 243547 | $57.73 | risk 99.1% | signals: pattern V14, pattern V12, pattern V10 | action: Hold transaction, send step-up verification",1
+73,243699,152036.0,18,1.0,0.9906716155221561,HOLD_FOR_REVIEW,"#73 | TX 243699 | $1.00 | risk 99.1% | signals: pattern V14, pattern V12, pattern V4 | action: Hold transaction, send step-up verification",1
+74,243749,152058.0,18,1.0,0.9906716155221561,HOLD_FOR_REVIEW,"#74 | TX 243749 | $1.00 | risk 99.1% | signals: pattern V14, pattern V12, pattern V4 | action: Hold transaction, send step-up verification",1
+75,243848,152098.0,18,1.0,0.9906716155221561,HOLD_FOR_REVIEW,"#75 | TX 243848 | $1.00 | risk 99.1% | signals: pattern V14, pattern V12, pattern V4 | action: Hold transaction, send step-up verification",1
+76,244004,152165.0,18,1.0,0.9906716155221561,HOLD_FOR_REVIEW,"#76 | TX 244004 | $1.00 | risk 99.1% | signals: pattern V14, pattern V12, pattern V4 | action: Hold transaction, send step-up verification",1
+77,244333,152307.0,18,1.0,0.9906716155221561,HOLD_FOR_REVIEW,"#77 | TX 244333 | $1.00 | risk 99.1% | signals: pattern V14, pattern V12, pattern V4 | action: Hold transaction, send step-up verification",1
+78,247995,153761.0,18,51.37,0.9906716155221561,HOLD_FOR_REVIEW,"#78 | TX 247995 | $51.37 | risk 99.1% | signals: pattern V14, pattern V12, pattern V10 | action: Hold transaction, send step-up verification",1
+79,249828,154599.0,18,6.74,0.9906716155221561,HOLD_FOR_REVIEW,"#79 | TX 249828 | $6.74 | risk 99.1% | signals: pattern V14, pattern V12, pattern V4 | action: Hold transaction, send step-up verification",1
+80,251866,155535.0,19,3.9,0.9906716155221561,HOLD_FOR_REVIEW,"#80 | TX 251866 | $3.90 | risk 99.1% | signals: pattern V14, pattern V12, pattern V4 | action: Hold transaction, send step-up verification",1
+81,251904,155554.0,19,94.82,0.9906716155221561,HOLD_FOR_REVIEW,"#81 | TX 251904 | $94.82 | risk 99.1% | signals: pattern V14, pattern V12, pattern V10 | action: Hold transaction, send step-up verification",1
+82,261925,160243.0,20,156.0,0.9906716155221561,HOLD_FOR_REVIEW,"#82 | TX 261925 | $156.00 | risk 99.1% | signals: pattern V14, pattern V12, pattern V4 | action: Hold transaction, send step-up verification",1
+83,262560,160537.0,20,4.69,0.9906716155221561,HOLD_FOR_REVIEW,"#83 | TX 262560 | $4.69 | risk 99.1% | signals: pattern V14, pattern V12, pattern V4 | action: Hold transaction, send step-up verification",1
+84,262826,160665.0,20,0.77,0.9906716155221561,HOLD_FOR_REVIEW,"#84 | TX 262826 | $0.77 | risk 99.1% | signals: pattern V14, pattern V12, pattern V4 | action: Hold transaction, send step-up verification",1
+85,263274,160870.0,20,0.77,0.9906716155221561,HOLD_FOR_REVIEW,"#85 | TX 263274 | $0.77 | risk 99.1% | signals: pattern V14, pattern V12, pattern V4 | action: Hold transaction, send step-up verification",1
+86,263877,161154.0,20,0.38,0.9906716155221561,HOLD_FOR_REVIEW,"#86 | TX 263877 | $0.38 | risk 99.1% | signals: pattern V14, pattern V12, pattern V10 | action: Hold transaction, send step-up verification",1
+87,274771,166198.0,22,25691.16,0.9906716155221561,HOLD_FOR_REVIEW,"#87 | TX 274771 | $25,691.16 | risk 99.1% | signals: pattern V7, pattern V5, pattern V20 | action: Hold transaction, send step-up verification",0
+88,279863,169142.0,22,390.0,0.9906716155221561,HOLD_FOR_REVIEW,"#88 | TX 279863 | $390.00 | risk 99.1% | signals: pattern V14, pattern V12, pattern V10 | action: Hold transaction, send step-up verification",1
+89,280143,169347.0,23,0.76,0.9906716155221561,HOLD_FOR_REVIEW,"#89 | TX 280143 | $0.76 | risk 99.1% | signals: pattern V14, pattern V12, pattern V10 | action: Hold transaction, send step-up verification",1
+90,281144,169966.0,23,245.0,0.9906716155221561,HOLD_FOR_REVIEW,"#90 | TX 281144 | $245.00 | risk 99.1% | signals: pattern V14, pattern V12, pattern V10 | action: Hold transaction, send step-up verification",1
+91,199896,133184.0,12,1335.0,0.990553036704175,HOLD_FOR_REVIEW,"#91 | TX 199896 | $1,335.00 | risk 99.1% | signals: pattern V14, pattern V4, pattern V12 | action: Hold transaction, send step-up verification",1
+92,201601,133958.0,13,130.21,0.990553036704175,HOLD_FOR_REVIEW,"#92 | TX 201601 | $130.21 | risk 99.1% | signals: pattern V14, pattern V4, pattern V12 | action: Hold transaction, send step-up verification",1
+93,239499,150138.0,17,50.0,0.9892595494561807,HOLD_FOR_REVIEW,"#93 | TX 239499 | $50.00 | risk 98.9% | signals: pattern V14, pattern V10, pattern V12 | action: Hold transaction, send step-up verification",1
+94,238222,149582.0,17,1.1,0.9888146449730733,HOLD_FOR_REVIEW,"#94 | TX 238222 | $1.10 | risk 98.9% | signals: pattern V14, pattern V12, pattern V16 | action: Hold transaction, send step-up verification",1
+95,263324,160895.0,20,127.14,0.9857834965910611,HOLD_FOR_REVIEW,"#95 | TX 263324 | $127.14 | risk 98.6% | signals: pattern V12, pattern V14, pattern V16 | action: Hold transaction, send step-up verification",1
+96,203700,134928.0,13,0.0,0.9851236659642859,HOLD_FOR_REVIEW,"#96 | TX 203700 | $0.00 | risk 98.5% | signals: pattern V14, pattern V4, pattern V12 | action: Hold transaction, send step-up verification",1
+97,237107,149096.0,17,0.0,0.9851236659642859,HOLD_FOR_REVIEW,"#97 | TX 237107 | $0.00 | risk 98.5% | signals: pattern V14, pattern V4, pattern V12 | action: Hold transaction, send step-up verification",1
+98,201098,133731.0,13,0.0,0.9844461443708636,HOLD_FOR_REVIEW,"#98 | TX 201098 | $0.00 | risk 98.4% | signals: pattern V14, pattern V4, pattern V12 | action: Hold transaction, send step-up verification",1
+99,167184,118532.0,8,105.89,0.9842669770043513,HOLD_FOR_REVIEW,"#99 | TX 167184 | $105.89 | risk 98.4% | signals: pattern V14, pattern V4, pattern V12 | action: Hold transaction, send step-up verification",1
+100,167305,118603.0,8,105.89,0.9842669770043513,HOLD_FOR_REVIEW,"#100 | TX 167305 | $105.89 | risk 98.4% | signals: pattern V14, pattern V4, pattern V12 | action: Hold transaction, send step-up verification",1
+101,189701,128519.0,11,93.35,0.9842669770043513,MONITOR,"#101 | TX 189701 | $93.35 | risk 98.4% | signals: pattern V14, pattern V12, pattern V4 | action: Approve, watch next 24h",1
+102,235616,148468.0,17,0.76,0.9829572761893718,MONITOR,"#102 | TX 235616 | $0.76 | risk 98.3% | signals: pattern V12, pattern V4, pattern V14 | action: Approve, watch next 24h",1
+103,148908,90303.0,1,0.77,0.982726550157279,MONITOR,"#103 | TX 148908 | $0.77 | risk 98.3% | signals: pattern V14, pattern V12, pattern V4 | action: Approve, watch next 24h",0
+104,157871,110552.0,6,80.22,0.9824782323798257,MONITOR,"#104 | TX 157871 | $80.22 | risk 98.2% | signals: pattern V12, pattern V10, pattern V14 | action: Approve, watch next 24h",1
+105,153885,100501.0,3,0.76,0.9821895760481468,MONITOR,"#105 | TX 153885 | $0.76 | risk 98.2% | signals: pattern V12, pattern V14, pattern V4 | action: Approve, watch next 24h",1
+106,149864,92087.0,1,1.0,0.9818655281910506,MONITOR,"#106 | TX 149864 | $1.00 | risk 98.2% | signals: pattern V12, pattern V14, pattern V10 | action: Approve, watch next 24h",0
+107,149865,92087.0,1,1.0,0.9818655281910506,MONITOR,"#107 | TX 149865 | $1.00 | risk 98.2% | signals: pattern V12, pattern V14, pattern V10 | action: Approve, watch next 24h",0
+108,153835,100298.0,3,1.0,0.9812579380350428,MONITOR,"#108 | TX 153835 | $1.00 | risk 98.1% | signals: pattern V10, pattern V12, pattern V8 | action: Approve, watch next 24h",1
+109,280149,169351.0,23,77.89,0.9809832277350385,MONITOR,"#109 | TX 280149 | $77.89 | risk 98.1% | signals: pattern V14, pattern V12, pattern V10 | action: Approve, watch next 24h",1
+110,234632,148053.0,17,1.59,0.9799946342693121,MONITOR,"#110 | TX 234632 | $1.59 | risk 98.0% | signals: pattern V14, pattern V4, pattern V12 | action: Approve, watch next 24h",1
+111,234633,148053.0,17,1.59,0.9799946342693121,MONITOR,"#111 | TX 234633 | $1.59 | risk 98.0% | signals: pattern V14, pattern V4, pattern V12 | action: Approve, watch next 24h",1
+112,154960,103808.0,4,2.27,0.9798580920464139,MONITOR,"#112 | TX 154960 | $2.27 | risk 98.0% | signals: pattern V12, pattern V14, pattern V10 | action: Approve, watch next 24h",1
+113,152295,97235.0,3,9.82,0.9797796445187369,MONITOR,"#113 | TX 152295 | $9.82 | risk 98.0% | signals: pattern V12, pattern V10, pattern V4 | action: Approve, watch next 24h",1
+114,151807,96291.0,2,33.59,0.979299106707832,MONITOR,"#114 | TX 151807 | $33.59 | risk 97.9% | signals: pattern V8, pattern V12, pattern V4 | action: Approve, watch next 24h",1
+115,172818,121251.0,9,10.61,0.9784642939277179,MONITOR,"#115 | TX 172818 | $10.61 | risk 97.8% | signals: pattern V14, pattern V12, pattern V4 | action: Approve, watch next 24h",0
+116,215984,140308.0,14,592.9,0.9782803418568358,MONITOR,"#116 | TX 215984 | $592.90 | risk 97.8% | signals: pattern V14, pattern V12, pattern V10 | action: Approve, watch next 24h",1
+117,154371,101313.0,4,2.28,0.9757139483932279,MONITOR,"#117 | TX 154371 | $2.28 | risk 97.6% | signals: pattern V8, pattern V10, pattern V12 | action: Approve, watch next 24h",1
+118,151006,94362.0,2,1.0,0.9725041254721208,MONITOR,"#118 | TX 151006 | $1.00 | risk 97.3% | signals: pattern V10, pattern V12, pattern V4 | action: Approve, watch next 24h",1
+119,151007,94362.0,2,1.0,0.9725041254721208,MONITOR,"#119 | TX 151007 | $1.00 | risk 97.3% | signals: pattern V10, pattern V12, pattern V4 | action: Approve, watch next 24h",1
+120,151008,94362.0,2,1.0,0.9725041254721208,MONITOR,"#120 | TX 151008 | $1.00 | risk 97.3% | signals: pattern V10, pattern V12, pattern V4 | action: Approve, watch next 24h",1
+121,151009,94362.0,2,1.0,0.9725041254721208,MONITOR,"#121 | TX 151009 | $1.00 | risk 97.3% | signals: pattern V10, pattern V12, pattern V4 | action: Approve, watch next 24h",1
+122,151730,96135.0,2,18.96,0.972191280774726,MONITOR,"#122 | TX 151730 | $18.96 | risk 97.2% | signals: pattern V12, pattern V4, pattern V8 | action: Approve, watch next 24h",1
+123,191690,129371.0,11,0.0,0.9709922762867723,MONITOR,"#123 | TX 191690 | $0.00 | risk 97.1% | signals: pattern V14, pattern V12, pattern V4 | action: Approve, watch next 24h",1
+124,192584,129764.0,12,362.55,0.9705825484197819,MONITOR,"#124 | TX 192584 | $362.55 | risk 97.1% | signals: pattern V14, pattern V12, pattern V10 | action: Approve, watch next 24h",1
+125,212516,138894.0,14,0.01,0.9691907183211899,MONITOR,"#125 | TX 212516 | $0.01 | risk 96.9% | signals: pattern V12, pattern V14, pattern V16 | action: Approve, watch next 24h",1
+126,266590,162400.0,21,0.77,0.9673664048133493,MONITOR,"#126 | TX 266590 | $0.77 | risk 96.7% | signals: pattern V14, pattern V4, pattern V12 | action: Approve, watch next 24h",0
+127,149869,92092.0,1,18.0,0.9668369014316451,MONITOR,"#127 | TX 149869 | $18.00 | risk 96.7% | signals: pattern V12, pattern V14, pattern V10 | action: Approve, watch next 24h",1
+128,203324,134766.0,13,1.0,0.9650825947793219,MONITOR,"#128 | TX 203324 | $1.00 | risk 96.5% | signals: pattern V4, pattern V14, pattern V12 | action: Approve, watch next 24h",1
+129,223578,143438.0,15,8.9,0.9643167059421867,MONITOR,"#129 | TX 223578 | $8.90 | risk 96.4% | signals: pattern V14, pattern V12, pattern V17 | action: Approve, watch next 24h",1
+130,191359,129222.0,11,4.87,0.9636707280356872,MONITOR,"#130 | TX 191359 | $4.87 | risk 96.4% | signals: pattern V14, pattern V4, pattern V12 | action: Approve, watch next 24h",1
+131,234705,148074.0,17,0.0,0.9632931264153944,MONITOR,"#131 | TX 234705 | $0.00 | risk 96.3% | signals: pattern V14, pattern V4, pattern V12 | action: Approve, watch next 24h",1
+132,252774,155965.0,19,0.77,0.9632931264153944,MONITOR,"#132 | TX 252774 | $0.77 | risk 96.3% | signals: pattern V14, pattern V4, pattern V12 | action: Approve, watch next 24h",1
+133,223366,143354.0,15,1.0,0.962663291677302,MONITOR,"#133 | TX 223366 | $1.00 | risk 96.3% | signals: pattern V14, pattern V4, pattern V12 | action: Approve, watch next 24h",1
+134,230076,146179.0,16,0.77,0.962663291677302,MONITOR,"#134 | TX 230076 | $0.77 | risk 96.3% | signals: pattern V14, pattern V12, pattern V4 | action: Approve, watch next 24h",1
+135,248296,153875.0,18,0.0,0.962663291677302,MONITOR,"#135 | TX 248296 | $0.00 | risk 96.3% | signals: pattern V14, pattern V4, pattern V12 | action: Approve, watch next 24h",1
+136,249963,154657.0,18,0.77,0.962663291677302,MONITOR,"#136 | TX 249963 | $0.77 | risk 96.3% | signals: pattern V14, pattern V4, pattern V12 | action: Approve, watch next 24h",1
+137,250761,155054.0,19,0.77,0.962663291677302,MONITOR,"#137 | TX 250761 | $0.77 | risk 96.3% | signals: pattern V14, pattern V4, pattern V12 | action: Approve, watch next 24h",1
+138,251477,155359.0,19,0.77,0.962663291677302,MONITOR,"#138 | TX 251477 | $0.77 | risk 96.3% | signals: pattern V14, pattern V4, pattern V12 | action: Approve, watch next 24h",1
+139,252124,155662.0,19,0.77,0.962663291677302,MONITOR,"#139 | TX 252124 | $0.77 | risk 96.3% | signals: pattern V14, pattern V12, pattern V4 | action: Approve, watch next 24h",1
+140,255556,157284.0,19,0.77,0.962663291677302,MONITOR,"#140 | TX 255556 | $0.77 | risk 96.3% | signals: pattern V14, pattern V4, pattern V12 | action: Approve, watch next 24h",1
+141,203328,134769.0,13,925.31,0.9626130658324471,MONITOR,"#141 | TX 203328 | $925.31 | risk 96.3% | signals: pattern V4, pattern V14, pattern V12 | action: Approve, watch next 24h",1
+142,189587,128471.0,11,67.9,0.9617743607210071,MONITOR,"#142 | TX 189587 | $67.90 | risk 96.2% | signals: pattern V14, pattern V12, pattern V10 | action: Approve, watch next 24h",1
+143,255403,157207.0,19,4.97,0.9592060159163911,MONITOR,"#143 | TX 255403 | $4.97 | risk 95.9% | signals: pattern V14, pattern V4, pattern V12 | action: Approve, watch next 24h",1
+144,192529,129741.0,12,1.0,0.9590749915592117,MONITOR,"#144 | TX 192529 | $1.00 | risk 95.9% | signals: pattern V14, pattern V12, pattern V10 | action: Approve, watch next 24h",1
+145,230476,146344.0,16,94.82,0.9576751861357753,MONITOR,"#145 | TX 230476 | $94.82 | risk 95.8% | signals: pattern V14, pattern V12, pattern V10 | action: Approve, watch next 24h",1
+146,192382,129668.0,12,2.0,0.9570069242618469,MONITOR,"#146 | TX 192382 | $2.00 | risk 95.7% | signals: pattern V14, pattern V12, pattern V4 | action: Approve, watch next 24h",1
+147,191544,129308.0,11,80.9,0.9569532636198157,MONITOR,"#147 | TX 191544 | $80.90 | risk 95.7% | signals: pattern V14, pattern V12, pattern V4 | action: Approve, watch next 24h",1
+148,261056,159844.0,20,45.51,0.9569532636198157,MONITOR,"#148 | TX 261056 | $45.51 | risk 95.7% | signals: pattern V14, pattern V4, pattern V12 | action: Approve, watch next 24h",1
+149,237426,149236.0,17,1.0,0.9569333337263076,MONITOR,"#149 | TX 237426 | $1.00 | risk 95.7% | signals: pattern V14, pattern V6, pattern V4 | action: Approve, watch next 24h",1
+150,249167,154278.0,18,1504.93,0.9544917155492484,MONITOR,"#150 | TX 249167 | $1,504.93 | risk 95.4% | signals: pattern V14, pattern V12, pattern V10 | action: Approve, watch next 24h",1
+151,221041,142409.0,15,2.0,0.9525606527677626,MONITOR,"#151 | TX 221041 | $2.00 | risk 95.3% | signals: pattern V14, pattern V12, pattern V6 | action: Approve, watch next 24h",1
+152,154633,102318.0,4,22.04,0.9512620782524072,MONITOR,"#152 | TX 154633 | $22.04 | risk 95.1% | signals: pattern V12, pattern V14, pattern V10 | action: Approve, watch next 24h",1
+153,249607,154493.0,18,35.0,0.9511561186364538,MONITOR,"#153 | TX 249607 | $35.00 | risk 95.1% | signals: pattern V14, pattern V6, pattern V12 | action: Approve, watch next 24h",1
+154,238366,149640.0,17,2.0,0.9507522570357673,MONITOR,"#154 | TX 238366 | $2.00 | risk 95.1% | signals: pattern V14, pattern V4, pattern V12 | action: Approve, watch next 24h",1
+155,204064,135095.0,13,345.0,0.9504763508088722,MONITOR,"#155 | TX 204064 | $345.00 | risk 95.0% | signals: pattern V14, pattern V12, pattern V4 | action: Approve, watch next 24h",1
+156,183106,125658.0,10,0.0,0.9492040644107828,MONITOR,"#156 | TX 183106 | $0.00 | risk 94.9% | signals: pattern V14, pattern V4, pattern V12 | action: Approve, watch next 24h",1
+157,276061,166878.0,22,0.77,0.9430663574504541,MONITOR,"#157 | TX 276061 | $0.77 | risk 94.3% | signals: pattern V14, pattern V4, pattern V10 | action: Approve, watch next 24h",0
+158,258403,158638.0,20,296.0,0.9427711761449273,MONITOR,"#158 | TX 258403 | $296.00 | risk 94.3% | signals: pattern V6, pattern V14, pattern V4 | action: Approve, watch next 24h",1
+159,189487,128422.0,11,0.77,0.9383119120158172,MONITOR,"#159 | TX 189487 | $0.77 | risk 93.8% | signals: pattern V14, pattern V4, pattern V24 | action: Approve, watch next 24h",0
+160,267760,162916.0,21,0.77,0.936715879608422,MONITOR,"#160 | TX 267760 | $0.77 | risk 93.7% | signals: pattern V14, pattern V4, pattern V10 | action: Approve, watch next 24h",0
+161,228505,145538.0,16,0.77,0.9344081376891878,MONITOR,"#161 | TX 228505 | $0.77 | risk 93.4% | signals: pattern V14, pattern V4, pattern V12 | action: Approve, watch next 24h",0
+162,218442,141320.0,15,195.66,0.932565665080045,MONITOR,"#162 | TX 218442 | $195.66 | risk 93.3% | signals: pattern V12, pattern V14, pattern V10 | action: Approve, watch next 24h",1
+163,149577,91502.0,1,1.0,0.9323691402249077,MONITOR,"#163 | TX 149577 | $1.00 | risk 93.2% | signals: pattern V14, pattern V12, pattern V10 | action: Approve, watch next 24h",1
+164,153398,98904.0,3,0.0,0.9291341328364449,MONITOR,"#164 | TX 153398 | $0.00 | risk 92.9% | signals: pattern V12, pattern V4, pattern V14 | action: Approve, watch next 24h",0
+165,190368,128803.0,11,175.9,0.928042139186712,MONITOR,"#165 | TX 190368 | $175.90 | risk 92.8% | signals: pattern V14, pattern V10, pattern V12 | action: Approve, watch next 24h",1
+166,159229,112374.0,7,18.2,0.9260786002808965,MONITOR,"#166 | TX 159229 | $18.20 | risk 92.6% | signals: pattern V14, pattern V4, pattern V24 | action: Approve, watch next 24h",0
+167,189878,128595.0,11,1.0,0.9138314211624691,MONITOR,"#167 | TX 189878 | $1.00 | risk 91.4% | signals: pattern V8, pattern V14, pattern V12 | action: Approve, watch next 24h",1
+168,184379,126219.0,11,25.0,0.909311791939201,MONITOR,"#168 | TX 184379 | $25.00 | risk 90.9% | signals: pattern V14, pattern V12, pattern V16 | action: Approve, watch next 24h",1
+169,276864,167338.0,22,349.08,0.9054870340800492,MONITOR,"#169 | TX 276864 | $349.08 | risk 90.5% | signals: pattern V14, pattern V12, pattern V10 | action: Approve, watch next 24h",1
+170,154877,103455.0,4,1.52,0.8978243310112755,MONITOR,"#170 | TX 154877 | $1.52 | risk 89.8% | signals: pattern V12, pattern V14, pattern V10 | action: Approve, watch next 24h",0
+171,266434,162332.0,21,0.77,0.894507135690427,MONITOR,"#171 | TX 266434 | $0.77 | risk 89.5% | signals: pattern V14, pattern V4, pattern V10 | action: Approve, watch next 24h",0
+172,149587,91524.0,1,1.0,0.8929002509816253,MONITOR,"#172 | TX 149587 | $1.00 | risk 89.3% | signals: pattern V14, pattern V12, pattern V4 | action: Approve, watch next 24h",1
+173,188416,127964.0,11,0.77,0.8651275808328874,MONITOR,"#173 | TX 188416 | $0.77 | risk 86.5% | signals: pattern V14, pattern V4, pattern V12 | action: Approve, watch next 24h",0
+174,153457,99129.0,3,45.51,0.8643749616073274,MONITOR,"#174 | TX 153457 | $45.51 | risk 86.4% | signals: pattern V12, pattern V4, pattern V14 | action: Approve, watch next 24h",0
+175,149874,92102.0,1,600.73,0.8627243129538998,MONITOR,"#175 | TX 149874 | $600.73 | risk 86.3% | signals: pattern V12, pattern V14, pattern V10 | action: Approve, watch next 24h",1
+176,261473,160034.0,20,4.9,0.8546723542051621,MONITOR,"#176 | TX 261473 | $4.90 | risk 85.5% | signals: pattern V14, pattern V12, pattern V6 | action: Approve, watch next 24h",1
+177,149357,91075.0,1,38.76,0.8457646540717797,MONITOR,"#177 | TX 149357 | $38.76 | risk 84.6% | signals: pattern V12, pattern V14, pattern V10 | action: Approve, watch next 24h",1
+178,198868,132688.0,12,1.0,0.8405613431739347,MONITOR,"#178 | TX 198868 | $1.00 | risk 84.1% | signals: pattern V14, pattern V6, pattern V4 | action: Approve, watch next 24h",1
+179,158680,111638.0,7,798.49,0.8307288022064793,MONITOR,"#179 | TX 158680 | $798.49 | risk 83.1% | signals: pattern V14, pattern V10, pattern V12 | action: Approve, watch next 24h",0
+180,170716,120322.0,9,0.77,0.8292021777849413,MONITOR,"#180 | TX 170716 | $0.77 | risk 82.9% | signals: pattern V14, pattern V4, pattern V24 | action: Approve, watch next 24h",0
+181,190263,128759.0,11,0.76,0.8167612992026294,MONITOR,"#181 | TX 190263 | $0.76 | risk 81.7% | signals: pattern V12, pattern V14, pattern V10 | action: Approve, watch next 24h",0
+182,207187,136560.0,13,1.0,0.8082699725733372,MONITOR,"#182 | TX 207187 | $1.00 | risk 80.8% | signals: pattern V14, pattern V6, pattern V4 | action: Approve, watch next 24h",0
+183,248579,154003.0,18,1.0,0.8038383474138243,MONITOR,"#183 | TX 248579 | $1.00 | risk 80.4% | signals: pattern V14, pattern V10, pattern V6 | action: Approve, watch next 24h",0
+184,185669,126765.0,11,0.77,0.7958183653999514,MONITOR,"#184 | TX 185669 | $0.77 | risk 79.6% | signals: pattern V14, pattern V4, pattern V12 | action: Approve, watch next 24h",0
+185,149600,91554.0,1,261.22,0.7957076542102856,MONITOR,"#185 | TX 149600 | $261.22 | risk 79.6% | signals: pattern V8, pattern V12, pattern V14 | action: Approve, watch next 24h",1
+186,274468,166023.0,22,2.0,0.7768378558135057,MONITOR,"#186 | TX 274468 | $2.00 | risk 77.7% | signals: pattern V14, pattern V12, pattern V6 | action: Approve, watch next 24h",0
+187,241254,150949.0,17,9.29,0.7467433591398495,MONITOR,"#187 | TX 241254 | $9.29 | risk 74.7% | signals: pattern V14, pattern V10, pattern V4 | action: Approve, watch next 24h",1
+188,220725,142280.0,15,324.59,0.7293190257836454,MONITOR,"#188 | TX 220725 | $324.59 | risk 72.9% | signals: pattern V14, pattern V4, pattern V12 | action: Approve, watch next 24h",1
+189,237192,149133.0,17,1059.28,0.7284228729944342,MONITOR,"#189 | TX 237192 | $1,059.28 | risk 72.8% | signals: pattern V4, pattern V12, pattern V14 | action: Approve, watch next 24h",0
+190,218042,141147.0,15,0.0,0.7175201395692967,MONITOR,"#190 | TX 218042 | $0.00 | risk 71.8% | signals: pattern V14, pattern V4, pattern V12 | action: Approve, watch next 24h",0
+191,191587,129332.0,11,0.77,0.7095337458738352,MONITOR,"#191 | TX 191587 | $0.77 | risk 71.0% | signals: pattern V14, pattern V4, pattern V12 | action: Approve, watch next 24h",0
+192,268375,163181.0,21,39.98,0.6990838593417608,MONITOR,"#192 | TX 268375 | $39.98 | risk 69.9% | signals: pattern V12, pattern V10, pattern V16 | action: Approve, watch next 24h",1
+193,217549,140934.0,15,0.77,0.6723690360908493,MONITOR,"#193 | TX 217549 | $0.77 | risk 67.2% | signals: pattern V14, pattern V4, pattern V6 | action: Approve, watch next 24h",0
+194,145022,86570.0,0,102.0,0.6664074463806464,MONITOR,"#194 | TX 145022 | $102.00 | risk 66.6% | signals: pattern V28, pattern V4, pattern V20 | action: Approve, watch next 24h",0
+195,182737,125528.0,10,0.89,0.6598517128461112,MONITOR,"#195 | TX 182737 | $0.89 | risk 66.0% | signals: pattern V14, pattern V10, pattern V17 | action: Approve, watch next 24h",0
+196,204255,135191.0,13,0.77,0.6549933475797097,MONITOR,"#196 | TX 204255 | $0.77 | risk 65.5% | signals: pattern V14, pattern V4, pattern V6 | action: Approve, watch next 24h",0
+197,274475,166028.0,22,39.9,0.6525216136199942,MONITOR,"#197 | TX 274475 | $39.90 | risk 65.3% | signals: pattern V14, pattern V12, pattern V10 | action: Approve, watch next 24h",1
+198,215285,140004.0,14,37.93,0.6509282089062857,MONITOR,"#198 | TX 215285 | $37.93 | risk 65.1% | signals: pattern V4, pattern V14, pattern V6 | action: Approve, watch next 24h",0
+199,201211,133776.0,13,1.0,0.6464936942602362,MONITOR,"#199 | TX 201211 | $1.00 | risk 64.6% | signals: pattern V4, pattern V14, pattern V8 | action: Approve, watch next 24h",0
+200,177965,123416.0,10,7.59,0.6337864960174981,MONITOR,"#200 | TX 177965 | $7.59 | risk 63.4% | signals: pattern V14, pattern V4, pattern V12 | action: Approve, watch next 24h",0
