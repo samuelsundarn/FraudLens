@@ -3,6 +3,7 @@ import csv
 import io
 import json
 import os
+import tempfile
 import sys
 import threading
 from datetime import datetime, timezone
@@ -26,7 +27,8 @@ from .explain import top_reasons, top_signals, tier, analyst_note, draft_message
 
 ROOT = Path(__file__).resolve().parent.parent
 ART = ROOT / "artifacts"
-AUDIT = ART / "audit_log.jsonl"
+ON_VERCEL = bool(os.getenv("VERCEL"))   # serverless: read-only disk except /tmp
+AUDIT = Path(tempfile.gettempdir(), "audit_log.jsonl") if ON_VERCEL else ART / "audit_log.jsonl"
 STATIC = Path(os.getenv("FRAUDLENS_STATIC", ROOT.parent / "frontend" / "dist"))
 
 app = FastAPI(title="FraudLens API", version="2.0.0", description="Fraud triage engine by Team Genesis")

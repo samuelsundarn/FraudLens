@@ -54,7 +54,8 @@ export default function DataUpload({ onReload }) {
   };
 
   const ds = info?.dataset;
-  const busy = !!up || training;
+  const disabled = info?.upload_enabled === false;   // serverless deployment
+  const busy = !!up || training || disabled;
   const secs = up ? (Date.now() - up.start) / 1000 : 0;
   const rate = up && secs > 0.5 ? up.loaded / secs : 0;
 
@@ -74,6 +75,7 @@ export default function DataUpload({ onReload }) {
 
       <Card title="Upload new transactions" sub="Upload a CSV and FraudLens retrains the model and recalculates the queue, reasons, dashboard, cost curve and scanner on the new data."
         tip="The file is streamed to the server in chunks, so large files (hundreds of MB) are fine. If training fails, the previous data stays in use.">
+        {disabled && <div className="upload-msg" style={{ marginTop: 0, marginBottom: 14 }}><AlertTriangle size={16} />Upload &amp; retrain need a running server, so they are switched off on this hosted demo. Run FraudLens locally (start.bat / start.sh) to upload your own data.</div>}
         <div
           className={"dropzone" + (drag ? " drag" : "") + (busy ? " disabled" : "")}
           role="button" tabIndex={0} aria-label="Choose a CSV file to upload"

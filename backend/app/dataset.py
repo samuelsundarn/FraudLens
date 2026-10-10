@@ -26,12 +26,15 @@ PREV_CSV = DATA_DIR / "creditcard.prev.csv"
 AUDIT = ART / "audit_log.jsonl"
 ARTIFACT_FILES = ["metrics.json", "queue.json", "samples.json", "model.joblib", "alert_queue_top200.csv"]
 MAX_MB = int(os.getenv("FRAUDLENS_MAX_UPLOAD_MB", "2048"))
+# Serverless hosts (Vercel) cap request bodies (~4.5 MB) and have a read-only disk, so retraining needs a server.
+UPLOAD_ENABLED = not os.getenv("VERCEL")
 
 router = APIRouter(prefix="/api/data", tags=["data"])
 on_retrained = []          # callbacks run after a successful retrain (main.py clears its cached state)
 _job = {"status": "idle", "log": []}
 _lock = threading.Lock()
-INCOMING.unlink(missing_ok=True)   # leftover from an upload interrupted by a server restart
+if UPLOAD_ENABLED:
+    INCOMING.unlink(missing_ok=True)   # leftover from an upload interrupted by a server restart
 
 
 def _now():
@@ -50,12 +53,16 @@ def _current_dataset():
 
 @router.get("/status")
 def status():
-    return {**_job, "log": _job["log"][-60:], "max_upload_mb": MAX_MB, "dataset": _current_dataset()}
+    return {**_job, "log": _job["log"][-60:], "max_upload_mb": MAX_MB, "upload_enabled": UPLOAD_ENABLED,
+            "dataset": _current_dataset()}
 
 
 @router.put("/upload")
 async def upload(request: Request, filename: str = Query(..., min_length=1, max_length=200)):
     """Send the raw CSV as the request body (no multipart), e.g. `curl -T creditcard.csv ...`."""
+    if not UPLOAD_ENABLED:
+        raise HTTPException(501, "Upload and retrain are not available on this serverless deployment. "
+                                 "Run FraudLens on a server (start.sh / start.bat) to use them.")
     name = Path(filename).name
     if not name.lower().endswith(".csv"):
         raise HTTPException(400, "Please upload a .csv file.")

@@ -1,0 +1,8 @@
+.env
+**/.venv
+**/node_modules
+**/__pycache__
+backend/data/*.csv
+backend/artifacts/audit_log*.jsonl
+backend/artifacts_previous
+chatbot/data/history/*.json
